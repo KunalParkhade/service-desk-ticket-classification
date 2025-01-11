@@ -6,3 +6,5 @@ numpy
 pandas
 scikit-learn
 ipython==8.31.0
+openai
+python-dotenv
