@@ -1,0 +1,8 @@
+torch
+torchmetrics
+streamlit
+nltk
+numpy
+pandas
+scikit-learn
+ipython==8.31.0
