@@ -89,7 +89,7 @@ We welcome contributions! To contribute:
 3. Submit a pull request with a clear description of your changes.⬇️
 
 ## License 📜
-This project is licensed under the [MIT License]().
+This project is licensed under the [MIT License](https://github.com/KunalParkhade/service-desk-ticket-classification/blob/main/LICENSE).
 
 ## Contact 📧
 For any queries or suggestions, please contact:
